@@ -3,7 +3,7 @@
 
 
 
-<table width="210%"><tr>
+<table width="900%"><tr>
 <td valign="middle">
 
 
@@ -26,7 +26,7 @@ class Giovanna:
 
 </td>
 <td valign="middle" width="150">
-<img src="./video.gif" width="286" />
+<img src="./video.gif" width="284" />
 </td>
 </tr></table>
 
