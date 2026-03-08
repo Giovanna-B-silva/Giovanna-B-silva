@@ -26,7 +26,7 @@ class Giovanna:
 
 </td>
 <td valign="middle" width="150">
-<img src="./video.gif" width="290" />
+<img src="./video.gif" width="286" />
 </td>
 </tr></table>
 
