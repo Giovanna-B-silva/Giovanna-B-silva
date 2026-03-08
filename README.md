@@ -3,7 +3,7 @@
 
 
 
-<table width="220%"><tr>
+<table width="210%"><tr>
 <td valign="middle">
 
 
